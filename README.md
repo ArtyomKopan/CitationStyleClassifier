@@ -1,1 +1,1 @@
-Citation Style Classification: Machine Learning Approaches
+Citation Style Classification: Machine Learning Approaches 
